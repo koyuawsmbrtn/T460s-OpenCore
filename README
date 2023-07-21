@@ -1,1 +1,27 @@
-My T460s OpenCore config
+My T460s OpenCore config.
+
+What works:
+- SD card
+- WiFi
+- Ethernet
+- USB
+- Camera
+- Audio
+- First time setup
+- Keyboard
+- Touchpad
+- Backlight
+- Keylight
+
+What doesn't work:
+- Bluetooth
+- Airdrop
+- iServices
+- DRM (use Chrome if you want to watch Netflix)
+- GPU acceleration
+
+Not tested:
+- HDMI output
+
+Requires extra work:
+- Android USB tethering: Use the HoRNDIS Kext
