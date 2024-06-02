@@ -1445,7 +1445,7 @@
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
-				<data>ZABlADoAMwA=</data>
+				<string>de-DE:253</string>
 				<key>run-efi-updater</key>
 				<string>No</string>
 			</dict>
